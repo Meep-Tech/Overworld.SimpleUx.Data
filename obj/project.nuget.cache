@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "0/CFE/oN8mfMJhkYldj20IBntgnWvqir5SMjF27n6wST3/tsU008cwieg6ILInP+NL4HGFlcELCUavQ6be1Agw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\super\\Projects\\meep-tech\\libraries\\c-sharp\\_games\\Overworld\\Overworld.SimpleUx.Data\\Overworld.SimpleUx.Data.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\super\\.nuget\\packages\\comparenetobjects\\4.74.0\\comparenetobjects.4.74.0.nupkg.sha512",
+    "C:\\Users\\super\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",
+    "C:\\Users\\super\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
