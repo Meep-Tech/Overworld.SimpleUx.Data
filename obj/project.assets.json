@@ -239,8 +239,8 @@
     },
     "Simple.Ux.Data/1.0.0": {
       "type": "project",
-      "path": "../../Simple.Ux.Data/Simple.Ux.Data.csproj",
-      "msbuildProject": "../../Simple.Ux.Data/Simple.Ux.Data.csproj"
+      "path": "../../../Simple.Ux/Simple.Ux.Data/Simple.Ux.Data.csproj",
+      "msbuildProject": "../../../Simple.Ux/Simple.Ux.Data/Simple.Ux.Data.csproj"
     },
     "Simple.Ux.XBam.Components/1.0.0": {
       "type": "project",
